@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.nekoschema.mobconfinement;
 
 import java.io.File;
 
